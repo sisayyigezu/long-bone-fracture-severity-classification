@@ -30,5 +30,5 @@ The dataset was divided into training (70%), validation (15%), and testing (15%)
 
 ## Data Availability and Reproducibility
 
-The full X-ray dataset is not distributed with this repository. The dataset is collected from local hospitals in Ethiopia.
+The dataset used in this study consists of long bone X-ray images collected from local hospitals in Ethiopia. Due to data privacy considerations, the full dataset is not publicly distributed through this repository. The repository provides the model implementation, experimental configurations, and evaluation results to support reproducibility.
 
